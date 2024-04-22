@@ -38,5 +38,5 @@ Contributions to this project are welcome! If you'd like to contribute new featu
 
 ## Acknowledgements
 
-Special thanks to [Shikant sir] for providing guidance and support throughout the development of this project.
+Special thanks to [Shrikant sir] for providing guidance and support throughout the development of this project.
 
