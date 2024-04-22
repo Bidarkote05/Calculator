@@ -12,7 +12,6 @@ This is a simple calculator web application developed as a mini project for a we
 
 - **HTML:** Used for structuring the web page and creating the user interface elements.
 - **CSS:** Used for styling the calculator and making it visually appealing.
-- **JavaScript:** Used for implementing the calculator's functionality and handling user interactions.
 
 ## Usage
 
